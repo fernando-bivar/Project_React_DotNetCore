@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DGZhqjO7mxsRjuu2BYuunf5hgRR/yx3bQV2tbd6qkSmGa61JpMA5IWt2nnxgGrqEBoS9PJEBopeiW6e9hbX5WQ==",
+  "dgSpecHash": "sNgE1Lr4rZVsdUjzZqhKsy8X+CeYwQqvo3fXMIv/Plbr4E9fYUwNiB8ENzUrS0xCOiEMr7X5qQGv96R3XtMo2g==",
   "success": true,
-  "projectFilePath": "C:\\Faculdade\\.Net-Core\\WebApp\\WebApp\\WebApp.csproj",
+  "projectFilePath": "C:\\Faculdade\\Project_React_DotNetCore\\WebApp\\WebApp\\WebApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ferna\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\ferna\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",

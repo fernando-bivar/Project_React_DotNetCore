@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Faculdade\\.Net-Core\\WebApp\\WebApp\\WebApp.csproj": {}
+    "C:\\Faculdade\\Project_React_DotNetCore\\WebApp\\WebApp\\WebApp.csproj": {}
   },
   "projects": {
-    "C:\\Faculdade\\.Net-Core\\WebApp\\WebApp\\WebApp.csproj": {
+    "C:\\Faculdade\\Project_React_DotNetCore\\WebApp\\WebApp\\WebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Faculdade\\.Net-Core\\WebApp\\WebApp\\WebApp.csproj",
+        "projectUniqueName": "C:\\Faculdade\\Project_React_DotNetCore\\WebApp\\WebApp\\WebApp.csproj",
         "projectName": "WebApp",
-        "projectPath": "C:\\Faculdade\\.Net-Core\\WebApp\\WebApp\\WebApp.csproj",
+        "projectPath": "C:\\Faculdade\\Project_React_DotNetCore\\WebApp\\WebApp\\WebApp.csproj",
         "packagesPath": "C:\\Users\\ferna\\.nuget\\packages\\",
-        "outputPath": "C:\\Faculdade\\.Net-Core\\WebApp\\WebApp\\obj\\",
+        "outputPath": "C:\\Faculdade\\Project_React_DotNetCore\\WebApp\\WebApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ferna\\AppData\\Roaming\\NuGet\\NuGet.Config",
