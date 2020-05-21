@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "sNgE1Lr4rZVsdUjzZqhKsy8X+CeYwQqvo3fXMIv/Plbr4E9fYUwNiB8ENzUrS0xCOiEMr7X5qQGv96R3XtMo2g==",
+  "dgSpecHash": "E09WLmo04OU1L+6v309/UnzUS24PeYYuy5IjqrCGNxqNzkow7e2GAqSzoQv638oiERt9RE1MD1irMqalKSZwKw==",
   "success": true,
   "projectFilePath": "C:\\Faculdade\\Project_React_DotNetCore\\WebApp\\WebApp\\WebApp.csproj",
   "expectedPackageFiles": [
@@ -169,7 +169,8 @@
     "C:\\Users\\ferna\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\ferna\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\ferna\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\ferna\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
+    "C:\\Users\\ferna\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
+    "C:\\Users\\ferna\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
   ],
   "logs": []
 }
