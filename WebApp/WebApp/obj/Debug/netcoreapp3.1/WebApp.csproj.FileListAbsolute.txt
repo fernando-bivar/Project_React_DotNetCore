@@ -294,3 +294,6 @@ C:\Faculdade\Project_React_DotNetCore\WebApp\WebApp\obj\Debug\netcoreapp3.1\stat
 C:\Faculdade\Project_React_DotNetCore\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.dll
 C:\Faculdade\Project_React_DotNetCore\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.pdb
 C:\Faculdade\Project_React_DotNetCore\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.genruntimeconfig.cache
+C:\Faculdade\Project_React_DotNetCore\WebApp\WebApp\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Faculdade\Project_React_DotNetCore\WebApp\WebApp\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Faculdade\Project_React_DotNetCore\WebApp\WebApp\bin\Debug\netcoreapp3.1\System.Text.Json.dll
